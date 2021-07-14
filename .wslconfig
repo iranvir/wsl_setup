@@ -1,0 +1,4 @@
+[wsl2]
+memory=16GB
+processors=6
+kernel=C:\\Users\\r\\kernel
