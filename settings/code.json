@@ -1,0 +1,28 @@
+{
+    "[markdown]": {
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 80
+    },
+    "[yaml]": {
+        "editor.autoIndent": "advanced",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    },
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "none",
+    "workbench.editor.untitled.hint": "hidden",
+    "security.workspace.trust.enabled": false,
+    "editor.tabCompletion": "on",
+    "editor.wordBasedSuggestions": true,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Consolas, monospace",
+    "editor.fontSize": 15,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.drawBoldTextInBrightColors": false,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "git.ignoreMissingGitWarning": true
+}

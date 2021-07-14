@@ -8,7 +8,7 @@ sudo add-apt-repository ppa:git-core/ppa -y
 
 sudo apt upgrade -y
 sudo apt autoremove --purge -y
-sudo apt install curl wget rsync vim openssh-client git man-db python3-venv -y
+sudo apt install curl wget rsync vim openssh-client git man-db -y
 sudo apt autoremove --purge -y
 sudo apt clean all
 
